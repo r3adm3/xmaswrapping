@@ -19,4 +19,3 @@ Write a script that can show the lyrics of the twelve days of Christmas, without
 and if you can sneak an emoji in there too, that'd be lovely.
 
 Santa doesn't want to lose the code, but doesn't need it in Santa Inc's code repo (so put it in your own repos)
-
