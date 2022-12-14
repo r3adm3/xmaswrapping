@@ -1,4 +1,4 @@
-# First Problem: Calculate extra hours
+## First Problem: Calculate extra hours
 Mrs Claus suspects that the elves are missing working days through the year. 
 She wants to make sure Santa is supported for the particularly busy time of the 
 year by making sure that if a working day (Mon-Fri) is missed that the elves have 
