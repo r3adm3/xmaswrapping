@@ -1,0 +1,16 @@
+Google Search: two parameters to a powershell function
+Led me to: https://stackoverflow.com/questions/4988226/how-do-i-pass-multiple-parameters-into-a-function-in-powershell
+
+Google Search: powershell+what+day+is+date
+Led me to: https://linuxhint.com/get-current-date-powershell/
+
+Google Search: powershell+false
+Led me to: https://learn.microsoft.com/en-us/powershell/module/microsoft.powershell.core/about/about_booleans
+
+Google Search: passing an array into a powershell function as an input
+Led me to: https://stackoverflow.com/questions/22656450/how-do-i-pass-an-array-or-list-as-a-parameter-to-a-powershell-function
+
+Google Search: case statement powershell
+Led me to: https://learn.microsoft.com/en-us/powershell/scripting/learn/deep-dives/everything-about-switch
+
+
