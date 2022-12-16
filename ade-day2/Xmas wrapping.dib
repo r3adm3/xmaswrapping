@@ -1,4 +1,4 @@
-#!csharp
+#!pwsh
 
 $XmasGifts = "socks", "watch", "sweets", "chocolate", "makeup", "Nintendo"
 
