@@ -1,0 +1,12 @@
+#!pwsh
+
+$XmasGifts = "socks", "watch", "sweets", "chocolate", "makeup", "Nintendo"
+
+foreach ($XmasGift in $XmasGifts) {
+  
+  $WrappingPaper = "*" * ($xmasGift.Length + 6)
+  Write-Host $WrappingPaper
+  Write-Host "** $XmasGift **"
+  Write-Host $WrappingPaper
+
+}
